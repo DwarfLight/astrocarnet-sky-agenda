@@ -1,35 +1,8 @@
 {
-  "updatedAt": "2026-10-01T12:57:03+02:00",
+  "updatedAt": "2026-10-02T12:30:15+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-10-01",
-      "label": "Jeudi 1 octobre",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Lune gibbeuse décroissante",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "02:20"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "03:55"
-        }
-      ]
-    },
     {
       "date": "2026-10-02",
       "label": "Vendredi 2 octobre",
@@ -189,6 +162,33 @@
           "type": "planet",
           "title": "Jupiter",
           "visible_from": "03:40"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "label": "Jeudi 8 octobre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Dernier croissant",
+          "visible_from": "05:20"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "02:10"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "03:35"
         }
       ]
     }
