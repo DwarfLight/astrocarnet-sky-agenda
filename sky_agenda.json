@@ -1,35 +1,8 @@
 {
-  "updatedAt": "2026-10-06T13:16:22+02:00",
+  "updatedAt": "2026-10-07T13:04:25+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-10-06",
-      "label": "Mardi 6 octobre",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Dernier croissant",
-          "visible_from": "02:40"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "02:15"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "03:40"
-        }
-      ]
-    },
     {
       "date": "2026-10-07",
       "label": "Mercredi 7 octobre",
@@ -174,6 +147,33 @@
           "type": "moon",
           "title": "Nouvelle Lune",
           "visible_from": "10:20"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "02:05"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "03:20"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "label": "Mardi 13 octobre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Croissant lunaire",
+          "visible_from": "11:35"
         },
         {
           "type": "planet",
