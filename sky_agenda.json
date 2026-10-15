@@ -1,40 +1,8 @@
 {
-  "updatedAt": "2026-10-14T11:30:37+02:00",
+  "updatedAt": "2026-10-15T11:08:58+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-10-14",
-      "label": "Mercredi 14 octobre",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Croissant lunaire",
-          "visible_from": "12:45"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "02:05"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "03:15"
-        },
-        {
-          "type": "meteor",
-          "title": "Orionides",
-          "note": "Pic dans 7 jours."
-        }
-      ]
-    },
     {
       "date": "2026-10-15",
       "label": "Jeudi 15 octobre",
@@ -59,6 +27,11 @@
           "type": "planet",
           "title": "Jupiter",
           "visible_from": "03:15"
+        },
+        {
+          "type": "meteor",
+          "title": "Orionides",
+          "note": "Pic dans 6 jours."
         }
       ]
     },
@@ -194,6 +167,38 @@
           "type": "planet",
           "title": "Jupiter",
           "visible_from": "03:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "label": "Mercredi 21 octobre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Lune gibbeuse croissante",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "02:00"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "02:55"
+        },
+        {
+          "type": "meteor",
+          "title": "Orionides",
+          "note": "Pic cette nuit."
         }
       ]
     }
