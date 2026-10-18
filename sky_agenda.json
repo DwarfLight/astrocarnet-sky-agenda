@@ -1,40 +1,8 @@
 {
-  "updatedAt": "2026-10-17T10:33:22+02:00",
+  "updatedAt": "2026-10-18T10:50:46+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-10-17",
-      "label": "Samedi 17 octobre",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Premier quartier",
-          "visible_from": "15:20"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "02:00"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "03:05"
-        },
-        {
-          "type": "meteor",
-          "title": "Orionides",
-          "note": "Pic dans 4 jours."
-        }
-      ]
-    },
     {
       "date": "2026-10-18",
       "label": "Dimanche 18 octobre",
@@ -59,6 +27,11 @@
           "type": "planet",
           "title": "Jupiter",
           "visible_from": "03:05"
+        },
+        {
+          "type": "meteor",
+          "title": "Orionides",
+          "note": "Pic dans 3 jours."
         }
       ]
     },
@@ -199,6 +172,33 @@
           "type": "planet",
           "title": "Jupiter",
           "visible_from": "02:50"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "label": "Samedi 24 octobre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Lune gibbeuse croissante",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "01:55"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "02:45"
         }
       ]
     }
