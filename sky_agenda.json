@@ -1,40 +1,8 @@
 {
-  "updatedAt": "2026-11-02T13:23:39+01:00",
+  "updatedAt": "2026-11-03T12:55:57+01:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-11-02",
-      "label": "Lundi 2 novembre",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Dernier quartier",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "00:45"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "01:15"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "07:05"
-        }
-      ]
-    },
     {
       "date": "2026-11-03",
       "label": "Mardi 3 novembre",
@@ -224,6 +192,38 @@
           "type": "planet",
           "title": "Vénus",
           "visible_from": "06:25"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "label": "Lundi 9 novembre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Nouvelle Lune",
+          "visible_from": "08:15"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "00:35"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "00:50"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "06:20"
         }
       ]
     }
