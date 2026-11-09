@@ -1,40 +1,8 @@
 {
-  "updatedAt": "2026-11-08T12:16:09+01:00",
+  "updatedAt": "2026-11-09T13:52:18+01:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-11-08",
-      "label": "Dimanche 8 novembre",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Nouvelle Lune",
-          "visible_from": "07:05"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "00:35"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "00:55"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "06:25"
-        }
-      ]
-    },
     {
       "date": "2026-11-09",
       "label": "Lundi 9 novembre",
@@ -249,6 +217,43 @@
           "type": "planet",
           "title": "Mercure",
           "visible_from": "06:50"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "label": "Dimanche 15 novembre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Premier quartier",
+          "visible_from": "13:20"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "00:25"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "00:30"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "05:50"
+        },
+        {
+          "type": "planet",
+          "title": "Mercure",
+          "visible_from": "06:45"
         }
       ]
     }
