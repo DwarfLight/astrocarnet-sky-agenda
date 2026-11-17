@@ -1,50 +1,8 @@
 {
-  "updatedAt": "2026-11-16T13:44:46+01:00",
+  "updatedAt": "2026-11-17T14:25:50+01:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-11-16",
-      "label": "Lundi 16 novembre",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Premier quartier",
-          "visible_from": "13:40"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "00:25"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "00:30"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "05:45"
-        },
-        {
-          "type": "planet",
-          "title": "Mercure",
-          "visible_from": "06:45"
-        },
-        {
-          "type": "meteor",
-          "title": "Léonides",
-          "note": "Pic demain."
-        }
-      ]
-    },
     {
       "date": "2026-11-17",
       "label": "Mardi 17 novembre",
@@ -264,6 +222,43 @@
           "type": "planet",
           "title": "Vénus",
           "visible_from": "05:25"
+        },
+        {
+          "type": "planet",
+          "title": "Mercure",
+          "visible_from": "06:50"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "label": "Lundi 23 novembre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Pleine Lune",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "00:05"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "00:15"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "05:20"
         },
         {
           "type": "planet",
