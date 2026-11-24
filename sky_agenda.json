@@ -1,45 +1,8 @@
 {
-  "updatedAt": "2026-11-23T15:37:58+01:00",
+  "updatedAt": "2026-11-24T15:52:15+01:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-11-23",
-      "label": "Lundi 23 novembre",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Pleine Lune",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "00:05"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "00:15"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "05:20"
-        },
-        {
-          "type": "planet",
-          "title": "Mercure",
-          "visible_from": "06:50"
-        }
-      ]
-    },
     {
       "date": "2026-11-24",
       "label": "Mardi 24 novembre",
@@ -233,6 +196,43 @@
         {
           "type": "moon",
           "title": "Lune gibbeuse décroissante",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "05:10"
+        },
+        {
+          "type": "planet",
+          "title": "Mercure",
+          "visible_from": "07:15"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "label": "Lundi 30 novembre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Dernier quartier",
           "visible_from": "début de nuit"
         },
         {
